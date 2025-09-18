@@ -8,3 +8,6 @@ remote break!please try to clone this git.
 successfully cloned.And created a branch named 'dev' quickly.
 
 Learning branch again.
+
+【bug branch】this is an unfinished work when you get the temporary task:
+abcdef...
