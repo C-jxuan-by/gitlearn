@@ -1,1 +1,2 @@
 this is my second txt file in git.
+【bug branch】you over a bug in this file.
